@@ -40,7 +40,7 @@ lendo o arquivo `inicio`. Uma forma de fazer isto é com o seguinte comando:
 	cat inicio
 
 Não use um editor de texto para ler os arquivos! A ideia é aprender a usar os
-comandos básicos do Unix para resolver o mistério.
+comandos básicos para resolver o mistério.
 
 Aqui está um resumo de alguns comandos que poderão ser úteis (você também pode
 usar outros além desses):
